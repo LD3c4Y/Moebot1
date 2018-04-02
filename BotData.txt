@@ -1,0 +1,19 @@
+
+token: NDA4MDcyNzE4Mzc0OTI4Mzk0.DaGKww.yxDscUZl0WInuIyVgbyk3FhBTv0
+	
+	clientID: 408072718374928394
+client secret: 9LgYH1idmP-kGV19I1oBDVX8dz59S6uO
+
+en caso de cambio de ClientID: https://discordapp.com/oauth2/authorize?&client_id=(el id del bot va aqui)&scope=bot 
+
+			código de invitación: https://discordapp.com/oauth2/authorize?&client_id=408072718374928394&scope=bot
+
+Página principal: https://discordapp.com/developers/applications/me/408072718374928394
+
+Youtube key api: 
+AIzaSyDwzQKS-5BQq1jFOEtw6XTfU3BdNLts5f8
+
+
+
+
+Bot creado por D3c4Y. V0.050

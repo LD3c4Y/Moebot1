@@ -509,4 +509,4 @@ if(message.server.owner.id == message.author.id || message.author.id == config.o
 
 //acá ya no se agrega nada. Vuelve arriba.
 
-client.login ('NDMwMTE4NDQ2MjYxMzM4MTEy.DaLjCQ.e3lwT5VlHt3CL3oyygfRxSHZgMw');
+client.login(process.env.BOT_TOKEN);

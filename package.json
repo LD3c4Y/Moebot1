@@ -1,0 +1,21 @@
+{
+  "name": "moebot",
+  "version": "0.050",
+  "description": "El bot mas adorable del oeste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LD3c4Y",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "moment": "^2.22.0",
+    "moment-duration-format": "^2.2.2",
+    "opusscript": "0.0.6",
+    "sqlite": "^2.9.1",
+    "youtube-search": "^1.1.0",
+    "ytdl-core": "^0.20.2"
+  }
+}
